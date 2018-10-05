@@ -1,0 +1,9 @@
+c:\users\104890\documents\visual studio 2013\Projects\OldIronFinalSolution\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+c:\users\104890\documents\visual studio 2013\Projects\OldIronFinalSolution\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+c:\users\104890\documents\visual studio 2013\Projects\OldIronFinalSolution\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+c:\users\104890\documents\visual studio 2013\Projects\OldIronFinalSolution\BusinessLogicalLayer\bin\Debug\Domain.dll
+c:\users\104890\documents\visual studio 2013\Projects\OldIronFinalSolution\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\104890\documents\visual studio 2013\Projects\OldIronFinalSolution\BusinessLogicalLayer\bin\Debug\Domain.pdb
+c:\users\104890\documents\visual studio 2013\Projects\OldIronFinalSolution\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+c:\users\104890\documents\visual studio 2013\Projects\OldIronFinalSolution\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+c:\users\104890\documents\visual studio 2013\Projects\OldIronFinalSolution\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
